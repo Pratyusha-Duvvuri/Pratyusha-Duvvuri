@@ -1,7 +1,7 @@
 # Site settings
 title: Pratyusha Duvvuri
 email: dpratyus@andrew.cmu.edu
-url: https://example.github.io
+url: https://Pratyusha-Duvvuri.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Girl who likes to code and build things"
@@ -34,21 +34,19 @@ color:
 footer:
   copyright: Pratyusha Duvvuri
   location: Location
-  social: Around the Web
+  social: Around the Webbb
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/pratyusha.duvvuri.9
+  - title: instagram
+    url: https://www.instagram.com/pratyushaduvvuri/
+  - title: devpost
+    url: https://devpost.com/pratyusha98?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/Pratyusha-Duvvuri
 
 # Postal address (add as many lines as necessary)
 address:
