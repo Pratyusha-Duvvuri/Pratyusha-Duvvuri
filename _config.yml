@@ -32,10 +32,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Pratyusha Duvvuriii
-  location: Locationnn
-  social: Around the Webbb
-  credits: Credits for U
+  copyright: Pratyusha Duvvuri
+  location: Location
+  social: Social Media Links
+  credits: Gratitude
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -55,7 +55,7 @@ address:
   - line: Pittsburgh, PA 15289
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Thanks for taking the time to check out my website!' #<a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
