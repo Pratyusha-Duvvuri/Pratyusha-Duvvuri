@@ -58,12 +58,14 @@ social:
     url: https://www.facebook.com/pratyusha.duvvuri.9
   - title: instagram
     url: https://www.instagram.com/pratyushaduvvuri/
-  - title: email
-    url: mailto:dpratyus@andrew.cmu.edu
+  - title: devpost
+    url: https://devpost.com/pratyusha98?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
   - title: github
     url: https://github.com/Pratyusha-Duvvuri
   - title: linkedin
     url: https://www.linkedin.com/in/pratyusha-rohini-duvvuri-254808137/
+  - title: email
+    url: mailto:dpratyus@andrew.cmu.edu
 
 # Postal address (add as many lines as necessary)
 address:
